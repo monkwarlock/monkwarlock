@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/Allure-8A2BE2?style=for-the-badge" alt="Allure"/>
   <img src="https://img.shields.io/badge/Mockito-8888FF?style=for-the-badge" alt="Mockito"/>
   <img src="https://img.shields.io/badge/Jacoco-E95835?style=for-the-badge" alt="Jacoco"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
 </div>
 
 ---
